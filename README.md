@@ -2,7 +2,7 @@
 <img src="https://lh3.googleusercontent.com/a-/AOh14GjzO_HrlM5czZ2iMoGFF3Pt8ZUx6h1j8q0j4vMVkw=s600-k-no-rp-mo" heigth='400' width='400'>
 I am Computer Engineering  Mobile Developer Java Kotlin Swift (Android & İOS)
 
-📫 How to reach me **oguzhanmavii98@gmail.com**
+📫 How to reach me **oguzhanmavii98@gmail.com  || mavioguz09@gmail.com**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oguzhanmavii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)  
 
