@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Oguzhan Mavi
-#### I am Computer Engineering Student
+#### I am Computer Engineering 
+#### Mobile Developer Java Kotlin Swift (Android & İOS)
 
 
 -📫 How to reach me *oguzhanmavii98@gmail.com*
