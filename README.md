@@ -1,5 +1,5 @@
-###[](https://visitor-badge.laobi.icu/badge?page_id=oguzhanmavii) [![Github](https://img.shields.io/github/followers/oguzhanmavii?label=Followers&logo=Github)](https://github.com/oguzhanmavii) 
-Hi there 👋 my name is Oguzhan Mavi!
+###Hi there 👋 my name is Oguzhan Mavi!<br>
+[](https://visitor-badge.laobi.icu/badge?page_id=oguzhanmavii) [![Github](https://img.shields.io/github/followers/oguzhanmavii?label=Followers&logo=Github)](https://github.com/oguzhanmavii) 
 <img src="https://lh3.googleusercontent.com/a-/AOh14GjzO_HrlM5czZ2iMoGFF3Pt8ZUx6h1j8q0j4vMVkw=s600-k-no-rp-mo" heigth='400' width='400'>
 I am Computer Engineering  Mobile Developer Java Kotlin Swift (Android & İOS)
 
