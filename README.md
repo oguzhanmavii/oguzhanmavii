@@ -4,7 +4,8 @@ I am Computer Engineering  Mobile Developer Java Kotlin Swift (Android & İOS)
 
 📫 How to reach me **oguzhanmavii98@gmail.com  or  mavioguz09@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oguzhanmavii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)![](https://visitor-badge.laobi.icu/badge?page_id=oguzhanmavii) [![Github](https://img.shields.io/github/followers/Vasseurr?label=Followers&logo=Github)](https://github.com/oguzhanmavii)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oguzhanmavii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)
+![](https://visitor-badge.laobi.icu/badge?page_id=oguzhanmavii) [![Github](https://img.shields.io/github/followers/oguzhanmavii?label=Followers&logo=Github)](https://github.com/oguzhanmavii)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanmavii&show_icons=true)  
 
