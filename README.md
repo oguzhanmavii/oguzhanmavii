@@ -1,6 +1,6 @@
 Hi there 👋 my name is Oguzhan Mavi!
-I am Computer Engineering  Mobile Developer Java Kotlin Swift (Android & İOS)![](https://visitor-badge.laobi.icu/badge?page_id=Vasseurr) [![Github](https://img.shields.io/github/followers/Vasseurr?label=Followers&logo=Github)](https://github.com/Vasseurr)
-<img src="https://lh3.googleusercontent.com/a-/AOh14GjzO_HrlM5czZ2iMoGFF3Pt8ZUx6h1j8q0j4vMVkw=s600-k-no-rp-mo" heigth='400' width='400'>
+I am Computer Engineering  Mobile Developer Java Kotlin Swift (Android & İOS)
+<img src="https://lh3.googleusercontent.com/a-/AOh14GjzO_HrlM5czZ2iMoGFF3Pt8ZUx6h1j8q0j4vMVkw=s600-k-no-rp-mo" heigth='400' width='400'>![](https://visitor-badge.laobi.icu/badge?page_id=oguzhanmavii) [![Github](https://img.shields.io/github/followers/Vasseurr?label=Followers&logo=Github)](https://github.com/oguzhanmavii)
 
 📫 How to reach me **oguzhanmavii98@gmail.com  or  mavioguz09@gmail.com**
 
