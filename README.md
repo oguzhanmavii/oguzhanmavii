@@ -1,4 +1,4 @@
-###Hi there 👋 my name is Oguzhan Mavi!
+Hi there 👋 my name is Oguzhan Mavi!
 I am Computer Engineering  Mobile Developer Java Kotlin Swift (Android & İOS)
 <img src="https://lh3.googleusercontent.com/a-/AOh14GjzO_HrlM5czZ2iMoGFF3Pt8ZUx6h1j8q0j4vMVkw=s600-k-no-rp-mo" heigth='400' width='400'>
 
