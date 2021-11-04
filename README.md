@@ -28,8 +28,6 @@ A passionate Software Developer, who currently loves to build mobile apps using 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<br />  
- 
 <!--  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.utdstc.com/icon/66c/a93/66ca938e8a1cf7228652dc6317782ba175051740770555eeff3e1b576d060da2:200" alt="Unity" height="50" style="vertical-align:top; margin:4px">
@@ -40,7 +38,6 @@ A passionate Software Developer, who currently loves to build mobile apps using 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 -->
 </p>
-<br />
 <!--
 ## :blue_book: Blog posts:
 - [Awesome typing effect overlay on images (CSS+JS)](https://dev.to/vasseurr/css-js-)
