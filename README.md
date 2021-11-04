@@ -16,7 +16,4 @@ A passionate Software Developer, who currently loves to build mobile apps using 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: oguzhanmavii98@gmail.com or mavioguz09@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1ipFeRyx_I7BdA7P3mSpkInTkjOwbytrr/view?usp=sharing).
-- 📝 [Resume](https://drive.google.com/file/d/1T7t0Ba-bVy6rSIMuQF2_qDQjbdZokz4N/view?usp=sharing).
-
 </br>
