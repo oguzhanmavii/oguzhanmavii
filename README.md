@@ -9,7 +9,6 @@
 
 A passionate Software Developer, who currently loves to build mobile apps using Flutter,with 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Express/ NodeJs / Spring / Android Kotlin / Dart / Flutter and Firebase.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 **Talking about Personal Stuffs:**
 
