@@ -1,21 +1,18 @@
-Hi there 👋 my name is Oguzhan Mavi!
-I am Computer Engineering  Mobile Developer Java Kotlin Swift (Android & İOS)
-<img src="https://lh3.googleusercontent.com/a-/AOh14GjzO_HrlM5czZ2iMoGFF3Pt8ZUx6h1j8q0j4vMVkw=s600-k-no-rp-mo" heigth='400' width='400'>
+### Hi there, I'm  Oguzhan Mavi 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-3b5998?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/javeedishaq)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-square&logo=Instagram&logoColor=white)](https://javeedishaq.medium.com/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/javeedishaq)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JaveedIshaq.javeedishaq)
+A passionate Software Developer, who currently loves to build mobile apps using Flutter,with 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Express/ NodeJs / Spring / Android Kotlin / Dart / Flutter and Firebase.
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
+**Talking about Personal Stuffs:**
+- 👨🏻‍💻 I’m currently working on something cool;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: ishaqjaveed1@gmail.com;
+- 📝 [Resume](https://drive.google.com/file/d/1ipFeRyx_I7BdA7P3mSpkInTkjOwbytrr/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1T7t0Ba-bVy6rSIMuQF2_qDQjbdZokz4N/view?usp=sharing).
 
-📫 How to reach me **oguzhanmavii98@gmail.com  or  mavioguz09@gmail.com**
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oguzhanmavii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)
-![](https://visitor-badge.laobi.icu/badge?page_id=oguzhanmavii)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanmavii&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=oguzhanmavii)  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
+</br>
