@@ -16,3 +16,5 @@ A passionate Software Developer, who currently loves to build mobile apps using 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: oguzhanmavii98@gmail.com or mavioguz09@gmail.com 
 </br>
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
