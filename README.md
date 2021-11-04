@@ -32,3 +32,22 @@ A passionate Software Developer, who currently loves to build mobile apps using 
 - [Awesome typing effect overlay on images (CSS+JS)](https://dev.to/vasseurr/css-js-)
 - [Create a dynamic GitHub profile Readme](https://dev.to/vasseurr/create-a-dynamic-github-profile)
 - [Create a static webpage with a contact form on Github pages](https://dev.to/vasseurr/create-a-static-webpage)
+
+## :trophy: My Github Stats:
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<!--
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Vasseurr&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Vasseurr&count_private=true&show_icons=true&theme=tokyonight" />
+-->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasseurr&show_icons=true&theme=dark&locale=en&layout=compact" alt="Vasseurr" /></p>
+<!--
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Vasseurr&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Vasseurr&hide=php&theme=tokyonight" /> 
+</a>
+-->
+</div>
