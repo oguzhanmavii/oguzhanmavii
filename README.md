@@ -38,7 +38,7 @@ A passionate Software Developer, who currently loves to build mobile apps using 
 <!--
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=oguzhanmavii&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Vasseurr&hide=php&theme=tokyonight" /> 
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=oguzhanmavii&hide=php&theme=tokyonight" /> 
 </a>
 -->
 </div>
