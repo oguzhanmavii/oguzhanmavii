@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-3b5998?style=flat-square&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/oguzhannmavii)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-square&logo=Instagram&logoColor=red)]()
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-square&logo=Instagram&logoColor=red)](https://www.instagram.com/oguzhannmavii/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)]()
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oguzhanmavii) - 📫 How to reach me: mavioguz09@gmail.com 
