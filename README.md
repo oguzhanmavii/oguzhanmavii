@@ -1,4 +1,4 @@
-### Hi there, I'm  Oguzhan Mavi oguzhanmavii98@gmail.com
+### Hi there, I'm  Oguzhan Mavi
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-3b5998?style=flat-square&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/oguzhannmavii)
