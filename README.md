@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/oguzhannmavii)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-square&logo=Instagram&logoColor=red)](https://www.instagram.com/oguzhannmavii/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)]()
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-square&logo=Gmail&logoColor=red)](https://www.instagram.com/oguzhannmavii/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oguzhanmavii) - 📫 How to reach me: mavioguz09@gmail.com 
 
