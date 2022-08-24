@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oguzhanmavii) - 📫 How to reach me: mavioguz09@gmail.com 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="408" height="318" />
 
 ## :trophy: My Github Stats:
 <p align="center">
@@ -31,4 +31,4 @@
 </a>
 -->
 </div>
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+
