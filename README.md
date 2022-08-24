@@ -6,7 +6,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-square&logo=Gmail&logoColor=white)](https://www.mavioguz09@gmail.com/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oguzhanmavii)
+### Seni burda gördüğüme memnun oldum ☺️
+&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oguzhanmavii)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="408" height="318" />
 
