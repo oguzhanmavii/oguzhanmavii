@@ -7,18 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oguzhanmavii) - 📫 How to reach me: mavioguz09@gmail.com 
 
-A passionate Software Developer, who currently loves to build mobile apps using Flutter,with 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Express/ NodeJs / Spring / Android Kotlin / Dart / Flutter and Firebase.
-
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-
-
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on something cool;
-- 💬 Ask me about anything, I am happy to help;
-
 
 ## :trophy: My Github Stats:
 <p align="center">
