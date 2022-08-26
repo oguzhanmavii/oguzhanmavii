@@ -13,7 +13,7 @@
 
 ## 
 <p align="center">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
   
     <div>
 <!--
