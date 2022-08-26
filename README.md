@@ -13,7 +13,7 @@
 
 ## 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png" alt="Java" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png" alt="Java" height="80" style="vertical-align:top; margin:4px">
 <!--
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=oguzhanmavii&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=oguzhanmavii&count_private=true&show_icons=true&theme=tokyonight" />
