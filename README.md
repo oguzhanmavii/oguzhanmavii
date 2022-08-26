@@ -13,7 +13,7 @@
 
 ## 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/225px-Google-flutter-logo.svg.png" alt="Java" height="80" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/225px-Google-flutter-logo.svg.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png" alt="Java" height="80" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png" alt="Java" height="80" style="vertical-align:top; margin:4px">  
 <!--
