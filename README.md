@@ -14,6 +14,7 @@
 ## 
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="C#" height="40" style="vertical-align:top; margin:4px">    
     <div>
 <!--
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=oguzhanmavii&count_private=true&show_icons=true&theme=tokyonight">
