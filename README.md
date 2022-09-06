@@ -13,9 +13,9 @@
 
 ## 
 <p align="center">
-<img src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" alt="Flutter" height="60" style="vertical-align:top; margin:2px"><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/60px-C_Sharp_wordmark.svg.png" alt="C#" height="60" style="vertical-align:top; margin:2px"><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/60px-Python_logo_and_wordmark.svg.png" alt="Python" height="60" style="vertical-align:top; margin:2px"><br>
+<img src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" alt="Flutter" height="60" style="vertical-align:top; margin:2px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/60px-C_Sharp_wordmark.svg.png" alt="C#" height="60" style="vertical-align:top; margin:2px">
+<img src="https://akademi.bilgeadam.com/wp-content/uploads/2021/01/application-development-with-python.png" alt="Python" height="60" style="vertical-align:top; margin:2px">
 <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/60px-Java_Logo.svg.png" alt="Java" height="60" style="vertical-align:top; margin:2px">  
 <!--
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=oguzhanmavii&count_private=true&show_icons=true&theme=tokyonight">
