@@ -1,4 +1,5 @@
-### Hi there, I'm  Oguzhan Mavi
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&pause=1000&width=435&lines=Hey+There%2C+I'm+Oguzhan+Mavi+%F0%9F%98%8E;I+am+Fullstack+Developer+%F0%9F%92%BB;I+improve+myself++every+day%2C++and+i+enjoy+it+%F0%9F%99%82;thanks+for+visiting+my+profile+%F0%9F%98%8D;You+can+contact+me+using+the+buttons+bellow+%F0%9F%91%87" alt="Typing SVG" /></a>
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-3b5998?style=flat-square&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/oguzhannmavii)
