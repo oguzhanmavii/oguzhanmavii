@@ -1,3 +1,6 @@
+<div align="center">
+  
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&pause=1000&width=435&lines=Hey+There%2C+I'm+Oguzhan+Mavi+%F0%9F%98%8E;I+am+Fullstack+Developer+%F0%9F%92%BB;I+improve+myself++every+day%2C++and+i+enjoy+it+%F0%9F%99%82;thanks+for+visiting+my+profile+%F0%9F%98%8D;You+can+contact+me+using+the+buttons+bellow+%F0%9F%91%87" alt="Typing SVG" /></a>
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)
@@ -9,25 +12,40 @@
 
 ### Seni burda gördüğüme memnun oldum ☺️ &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oguzhanmavii)
 
+</div>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="408" height="318" />
 
-## 
-<p align:center>
+
+
+##
+<br />
+
+
+
+<div align="center">
+  <img alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="408" height="318" />
+  
+  </div>
+  
+  <br />
+  <br />
+<div align="center">
+  
+  
 <img src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" alt="Flutter" height="80" style="vertical-align:top; margin:2px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" alt="C#" height="80" style="vertical-align:top; margin:2px">
 <img src="https://akademi.bilgeadam.com/wp-content/uploads/2021/01/application-development-with-python.png" alt="Python" height="80" style="vertical-align:top; margin:2px">
 <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/120px-Java_Logo.svg.png" alt="Java" height="80" style="vertical-align:top; margin:2px">  
-<!--
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=oguzhanmavii&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=oguzhanmavii&count_private=true&show_icons=true&theme=tokyonight" />
--->
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmavii&show_icons=true&theme=dark&locale=en&layout=compact" alt="oguzhanmavii" /></p>
-<!--
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=oguzhanmavii&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=oguzhanmavii&hide=php&theme=tokyonight" /> 
-</a>
--->
+
+</div> 
+
+  
+
+<hr />
+ <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanmavii&show_icons=true&theme=dark&locale=en&layout=compact" alt="oguzhanmavii" />
 </div>
+</div>
+
+  
+
 
