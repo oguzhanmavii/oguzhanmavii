@@ -23,7 +23,7 @@
 
 
 <div align="center">
-  <img alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="408" height="318" />
+  <img  alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="50%" height="300px" />
   
   </div>
   
@@ -32,10 +32,10 @@
 <div align="center">
   
   
-<img src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" alt="Flutter" height="80" style="vertical-align:top; margin:2px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" alt="C#" height="80" style="vertical-align:top; margin:2px">
-<img src="https://akademi.bilgeadam.com/wp-content/uploads/2021/01/application-development-with-python.png" alt="Python" height="80" style="vertical-align:top; margin:2px">
-<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/120px-Java_Logo.svg.png" alt="Java" height="80" style="vertical-align:top; margin:2px">  
+<img src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" alt="Flutter" width="60" height="60" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" alt="C#" width="60" height="60"  >
+<img src="https://akademi.bilgeadam.com/wp-content/uploads/2021/01/application-development-with-python.png" alt="Python" width="60" height="60" >
+<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/120px-Java_Logo.svg.png" alt="Java" width="60" height="60" />  
 
 </div> 
 
