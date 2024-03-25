@@ -61,7 +61,7 @@ I am a Fullstack Software Engineer<img src="https://media.giphy.com/media/3iyKHM
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huseyinkaplan00&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oguzhanmavii0&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanmaviilayout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="src/footer.svg"/>
