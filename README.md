@@ -1,49 +1,68 @@
 <div align="center">
-  
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&pause=1000&width=435&lines=Hey+There%2C+I'm+Oguzhan+Mavi+%F0%9F%98%8E;I+am+Fullstack+Developer+%F0%9F%92%BB;I+improve+myself++every+day%2C++and+i+enjoy+it+%F0%9F%99%82;thanks+for+visiting+my+profile+%F0%9F%98%8D;You+can+contact+me+using+the+buttons+bellow+%F0%9F%91%87" alt="Typing SVG" /></a>
-<br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-mavi-b51542149/)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-3b5998?style=flat-square&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UC0sWMgurJhGw4g328xG9gUA)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/oguzhannmavii)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-square&logo=Instagram&logoColor=red)](https://www.instagram.com/oguzhannmavii/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)]()
-[![Gmail Badge](https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-square&logo=Gmail&logoColor=white)](https://www.mavioguz09@gmail.com/)
+ 
+<img src="src/header.svg"/>
+<!-- typing svg -->
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&size=25&duration=4999&pause=1000&color=B2A98D&background=C1FF6D00&center=true&vCenter=true&width=500&lines=Hey+There+%2C+I'm+Huseyin+Kaplan+%F0%9F%98%8E;I+am+front+end+developer+%F0%9F%96%A5%EF%B8%8F;I+improve+myself+every+day%2C+and+i+enjoy+it+%F0%9F%98%83++;+thanks+for+visiting+my+profile+%F0%9F%A4%A9;%F0%9F%91%87You+can+contact+me+using+the+buttons+below%F0%9F%91%87" alt="Typing SVG" /></a>
+<!-- badges -->
 
-### Seni burda gördüğüme memnun oldum ☺️ &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oguzhanmavii)
+</br>  
+<div id="badges">
+
+<a target="_blank" href="mailto:oguzhanmavii98@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
+<a href="linkedin.com/in/oguzhan-mavi">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</br>
+
+
+
+<img src="https://komarev.com/ghpvc/?username=oguzhanmavii&style=flat-square&color=blue" alt=""/>
+</div>
+
+<img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="25%"/>
+
+
+
+---
+
+### :man_technologist: About Me :
+I am a Fullstack Software Engineer<img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30"> from Turkey.
+
+ :telescope: I’m working as a Fullstack Software Engineer for building Backend FrontEnd and Mobile Applications <br/>
+ :e-mail:  You can contact me at [oguzhanmavii98@gmail.com](mailto:oguzhanmavii98@gmail.com) <br/>
+ :seedling: Exploring Technical Content Writing.<br/>
+ :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.<br/>
+
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-OĞUZHAN MAVİ-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/oguzhan-mavi) <br/>
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>
+
+
 
 </div>
 
+---
+### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huseyinkaplan00&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinkaplan00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="src/footer.svg"/>
 
-##
-<br />
-
-
-
-<div align="center">
-  <img  alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="50%" height="300px" />
-  
-  </div>
-  
-  <br />
-  <br />
-<div align="center">
-  
-  
-<img src="https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI" alt="Flutter" width="60" height="60" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" alt="C#" width="60" height="60"  >
-<img src="https://akademi.bilgeadam.com/wp-content/uploads/2021/01/application-development-with-python.png" alt="Python" width="60" height="60" >
-<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/120px-Java_Logo.svg.png" alt="Java" width="60" height="60" />  
-
-</div> 
-
-  
-
-<hr />
 </div>
-
-  
-
-
