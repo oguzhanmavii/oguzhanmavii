@@ -2,8 +2,7 @@
  
 <img src="src/header.svg"/>
 <!-- typing svg -->
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&size=25&duration=4999&pause=1000&color=B2A98D&background=C1FF6D00&center=true&vCenter=true&width=500&lines=Hey+There+%2C+I'm+OĞUZHAN MAVİ+
- +%F0%9F%98%8E;I+am+Fullstack+Software+Engineer+%F0%9F%96%A5%EF%B8%8F;I+improve+myself+every+day%2C+and+i+enjoy+it+%F0%9F%98%83++;+thanks+for+visiting+my+profile+%F0%9F%A4%A9;%F0%9F%91%87You+can+contact+me+using+the+buttons+below%F0%9F%91%87" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Charmonman&size=25&duration=4999&pause=1000&color=B2A98D&background=C1FF6D00&center=true&vCenter=true&width=500&lines=Hey+There+%2C+I'm+Oguzhan+Mavi+%F0%9F%98%8E;I+am+Fullstack+Software+Engineer+%F0%9F%96%A5%EF%B8%8F;I+improve+myself+every+day%2C+and+i+enjoy+it+%F0%9F%98%83++;+thanks+for+visiting+my+profile+%F0%9F%A4%A9;%F0%9F%91%87You+can+contact+me+using+the+buttons+below%F0%9F%91%87" alt="Typing SVG" /></a>
 <!-- badges -->
 
 </br>  
@@ -44,15 +43,14 @@ I am a Fullstack Software Engineer<img src="https://media.giphy.com/media/3iyKHM
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>
+
 
 
 
