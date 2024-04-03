@@ -6,21 +6,17 @@
 <!-- badges -->
 
 </br>  
+
 <div id="badges">
-
-<a target="_blank" href="mailto:oguzhanmavii98@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-
-<a href="linkedin.com/in/oguzhan-mavi">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-</br>
-
-
-
-<img src="https://komarev.com/ghpvc/?username=oguzhanmavii&style=flat-square&color=blue" alt=""/>
-</div>
+        <a target="_blank" href="mailto:oguzhanmavii98@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+        </a>
+        <a href="https://www.linkedin.com/in/oguzhan-mavi"> <!-- LinkedIn bağlantısı düzeltildi -->
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <br/>
+        <img src="https://komarev.com/ghpvc/?username=oguzhanmavii&style=flat-square&color=blue" alt=""/>
+    </div>
 
 <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="25%"/>
 
