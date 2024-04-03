@@ -32,7 +32,7 @@ I am a Fullstack Software Engineer<img src="https://media.giphy.com/media/3iyKHM
  :seedling: Exploring Technical Content Writing.<br/>
  :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.<br/>
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-OĞUZHANMAVİ-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/oguzhan-mavi) <br/>
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-OĞUZHANMAVİ-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oguzhan-mavi) <br/>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
